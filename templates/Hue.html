@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Hue Rotation Control</title>
+    <style>
+        /* Apply initial hue rotation effect to the image */
+        img {
+            filter: hue-rotate(90deg);
+        }
+    </style>
+</head>
+<body>
+
+<input id="hueRotationSlider" type="range" min="0" max="360" value="90">
+<span id="hueRotationValue">90deg</span>
+<!-- Replace 'your-image-source.jpg' with the actual path to your image -->
+<img id="imageToAdjust" src="your-image-source.jpg">
+
+<script>
+    // Get the slider, span for displaying hue rotation value, and the image element
+    const hueRotationSlider = document.getElementById("hueRotationSlider");
+    const hueRotationValue = document.getElementById("hueRotationValue");
+    const imageToAdjust = document.getElementById("imageToAdjust");
+  
+    // Update the hue rotation value and the image filter when slider value changes
+    hueRotationSlider.addEventListener("input", function() {
+        const hueValue = this.value;
+        // Update the displayed hue rotation value
+        hueRotationValue.textContent = `${hueValue}deg`;
+        // Apply the hue rotation filter to the image
+        imageToAdjust.style.filter = `hue-rotate(${hueValue}deg)`;
+    });
+</script>
+
+</body>
+</html>
+

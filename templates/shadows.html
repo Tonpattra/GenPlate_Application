@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Drop Shadow Control</title>
+    <style>
+        /* Initial drop shadow effect applied to the image */
+        img {
+            filter: drop-shadow(8px 8px 10px gray);
+        }
+    </style>
+</head>
+<body>
+
+<input id="shadowBlurSlider" type="range" min="0" max="20" value="10">
+<span id="shadowBlurValue">10px</span>
+<!-- Replace 'your-image-source.jpg' with the actual path to your image -->
+<img id="imageToAdjust" src="C:/Users/ll/Desktop/Thesis_website/static/public/external/teslamodel3facelift2024exteriordesignrearalfainchi4230-cpj-800h.png">
+
+<script>
+    // Get the slider, span for displaying shadow blur value, and the image element
+    const shadowBlurSlider = document.getElementById("shadowBlurSlider");
+    const shadowBlurValue = document.getElementById("shadowBlurValue");
+    const imageToAdjust = document.getElementById("imageToAdjust");
+  
+    // Update the drop shadow blur value and the image filter when slider value changes
+    shadowBlurSlider.addEventListener("input", function() {
+        const blurRadius = this.value;
+        // Update the displayed shadow blur value
+        shadowBlurValue.textContent = `${blurRadius}px`;
+        // Apply the drop shadow filter to the image with the new blur radius
+        imageToAdjust.style.filter = `drop-shadow(8px 8px ${blurRadius}px gray)`;
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Saturation Effect</title>
+    <style>
+        /* Apply initial saturation effect to the image */
+        img {
+            filter: saturate(800%);
+        }
+    </style>
+</head>
+<body>
+
+<input id="percentageSlider_Shadows" type="range" min="0" max="100" value="100">
+<span id="percentageText_Shadows">100%</span>
+<!-- Example image below; replace 'image-source.jpg' with your actual image source -->
+<img id="imageToFilter" src="C:/Users/ll/Desktop/Thesis_website/static/public/external/teslamodel3facelift2024exteriordesignrearalfainchi4230-cpj-800h.png">
+
+<script>
+    // Get the slider, text, and image elements
+    const percentageSlider_Shadows = document.getElementById("percentageSlider_Shadows");
+    const percentageText_Shadows = document.getElementById("percentageText_Shadows");
+    const imageToFilter = document.getElementById("imageToFilter");
+  
+    // Update the text content and the image filter when slider value changes
+    percentageSlider_Shadows.addEventListener("input", function() {
+        const saturationValue = this.value;
+        percentageText_Shadows.textContent = `${saturationValue}%`;
+        imageToFilter.style.filter = `saturate(${saturationValue}%)`;
+    });
+</script>
+
+</body>
+</html>
+

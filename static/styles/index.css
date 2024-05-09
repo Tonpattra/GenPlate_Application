@@ -1,0 +1,4073 @@
+.main-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.main-main {
+  width: 100%;
+  height: 9555px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.main-image020teslamodel31 {
+  top: 5272px;
+  left: -21px;
+  width: 1950px;
+  height: 643px;
+  position: absolute;
+}
+.main-main-section {
+  top: 171px;
+  left: -8px;
+  width: 1929px;
+  height: 1220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 1);
+}
+.main-divtile {
+  top: 95.66998291015625px;
+  left: 0px;
+  width: 1929px;
+  height: 1092.6099853515625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 1);
+}
+.main-divtilecontentwrapper {
+  top: 622px;
+  left: 645px;
+  width: 640px;
+  height: 369.6099853515625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.main-text {
+  top: 208.33001708984375px;
+  left: -5px;
+  color: rgba(255, 255, 255, 1);
+  width: 636px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+  opacity: 0; /* Start invisible */
+  animation: fadeIn 2.5s forwards; /* Use the fadeIn animation */
+  animation-delay: 2.5s; /* Start after a 0.5 second delay */
+
+}
+
+.main-text002 {
+  top: 344.33001708984375px;
+  left: 258px;
+  color: rgba(245, 245, 247, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 16.8671875px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+  /* Add this for animation */
+  opacity: 0; /* Start invisible */
+  animation: fadeIn 3s forwards; /* Use the fadeIn animation */
+  animation-delay: 3s; /* Start after a 0.5 second delay */
+} 
+
+.main-text004 {
+  top: 10.33001708984375px;
+  left: 76px;
+  color: rgba(245, 245, 247, 1);
+  width: 474px;
+  height: auto;
+  position: absolute;
+  font-size: 100px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 100px;
+  text-align: center;
+  font-stretch: normal;
+  text-decoration: none;
+  /* Add this for animation */
+  opacity: 0; /* Start invisible */
+  animation: fadeIn 1.5s forwards; /* Use the fadeIn animation */
+  animation-delay: 1.5s; /* Start after a 0.5 second delay */
+}
+
+.main-text006 {
+  top: 142.33001708984375px;
+  left: 140px;
+  color: rgba(245, 245, 247, 1);
+  width: 347px;
+  height: auto;
+  position: absolute;
+  font-size: 18.8671875px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+  /* Add this for animation */
+  opacity: 0; /* Start invisible */
+  animation: fadeIn 2s forwards; /* Use the fadeIn animation */
+  animation-delay: 2s; /* Start after a 0.5 second delay */
+}
+
+.main-button-findoutmoreabout-black-unity-sport-band-unity-bloo {
+  top: 337.33001708984375px;
+  left: 245px;
+  width: 136px;
+  height: 34px;
+  position: absolute;
+  border-radius: 980px;
+    /* Add this for animation */
+    opacity: 0; /* Start invisible */
+    animation: fadeIn 3s forwards; /* Use the fadeIn animation */
+    animation-delay: 3s; /* Start after a 0.5 second delay */
+  }
+
+.main-img944x629202309011142052293171 {
+  top: -92.66998291015625px;
+  left: 960px;
+  width: 944px;
+  height: 629px;
+  position: absolute;
+  opacity: 0; /* Start invisible */
+  animation: fadeIn 0.5s forwards; /* Use the fadeIn animation */
+  animation-delay: 0.5s; /* Start after a 0.5 second delay */
+
+}
+.main-image131 {
+  top: 280.33001708984375px;
+  left: 640px;
+  width: 378px;
+  height: 160px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 5px;
+}
+.main-main-section01 {
+  top: 1394px;
+  left: -2px;
+  width: 1923px;
+  height: 1103px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 1);
+}
+.main-divtile1 {
+  top: 0px;
+  left: 270px;
+  width: 1383px;
+  height: 1075.5899658203125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 1);
+}
+.main-divtilecontent {
+  top: -7.93994140625px;
+  left: 2px;
+  width: 1380px;
+  height: 305.5899963378906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.main-image1x11 {
+  top: -131px;
+  left: -264px;
+  width: 1904px;
+  height: 1300px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+    /* Initial state of the image */
+  filter: brightness(100%);
+    /* Animation name, duration, and timing function */
+  animation: brightenEffect 28s ease forwards;
+}
+  /* Keyframes for the animation */
+@keyframes brightenEffect {
+  from { filter: brightness(0%); }
+  to { filter: brightness(300%); }
+}
+
+
+.main-text011 {
+  top: 99px;
+  left: 411.2300109863281px;
+  color: rgba(255, 255, 255, 1);
+  width: 558px;
+  height: auto;
+  position: absolute;
+  font-size: 42.75px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 52.0099983215332px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text013 {
+  top: 176px;
+  left: 639.3599853515625px;
+  color: rgba(255, 255, 255, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 19.1953125px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 29px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text015 {
+  top: 220px;
+  left: 542px;
+  color: rgba(41, 151, 255, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 18.375px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text017 {
+  top: 220px;
+  left: 678.7099609375px;
+  color: rgba(41, 151, 255, 1);
+  width: 129px;
+  height: auto;
+  position: absolute;
+  font-size: 18.375px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-button-watchthefilmabout-apple-watch-series9 {
+  top: 223px;
+  left: 812px;
+  width: 25px;
+  height: 21px;
+  position: absolute;
+}
+.main-link-learnmoreabout-apple-watch-series9 {
+  top: 223px;
+  left: 649px;
+  width: 10px;
+  height: 21px;
+  position: absolute;
+}
+.main-image1311 {
+  top: 769px;
+  left: 877px;
+  width: 152px;
+  height: 66px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 5px;
+}
+.main-main-section02 {
+  top: 2497px;
+  left: -2px;
+  width: 1923px;
+  height: 734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 245, 247, 1);
+}
+.main-divsectioncontent {
+  top: 0px;
+  left: 242px;
+  width: 1440px;
+  height: 734px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-divtile2 {
+  top: 0px;
+  left: 30px;
+  width: 1380px;
+  height: 734px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 245, 247, 1);
+}
+.main-ptileprice {
+  top: 372px;
+  left: 115.2300033569336px;
+  width: 412px;
+  height: 29px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text019 {
+  top: -33.1298828125px;
+  left: -60.22998046875px;
+  color: rgba(29, 29, 31, 1);
+  width: 532px;
+  height: auto;
+  position: absolute;
+  font-size: 19.6875px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 29px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-divtilectacontainer {
+  top: 325.8701171875px;
+  left: 122px;
+  width: 412px;
+  height: 106px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text021 {
+  top: 243.8701171875px;
+  left: 311px;
+  color: rgba(29, 29, 31, 1);
+  width: 558px;
+  height: auto;
+  position: absolute;
+  font-size: 42.75px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 52.0099983215332px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-divtile3 {
+  top: 2px;
+  left: 1227px;
+  width: 697px;
+  height: 728px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 1);
+}
+.main-divmusicgallery {
+  top: 0.1298828125px;
+  left: 11px;
+  width: 675px;
+  height: 728px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-divtilecopycontent {
+  top: 122px;
+  left: 113px;
+  width: 450px;
+  height: 162.02000427246094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text023 {
+  top: 81.419921875px;
+  left: 102.45001220703125px;
+  color: rgba(255, 255, 255, 1);
+  width: 245px;
+  height: auto;
+  position: absolute;
+  font-size: 17.8828125px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 29px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text025 {
+  top: 61px;
+  left: 181px;
+  color: rgba(255, 255, 255, 1);
+  width: 315px;
+  height: auto;
+  position: absolute;
+  font-size: 43.3125px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 52.0099983215332px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-image132 {
+  top: 346.8701171875px;
+  left: 216px;
+  width: 243px;
+  height: 108px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 5px;
+}
+.save_change {
+  top: 450.8701171875px;
+  left: 260px;
+  color: rgba(0, 102, 204, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 420;
+  line-height: 52.0099983215332px;
+  font-stretch: normal;
+  text-decoration: none;
+  display: none;
+}
+
+.main-main-section03 {
+  top: 3231px;
+  left: -3px;
+  width: 1920px;
+  height: 778px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(210, 210, 215, 0.6399999856948853);
+}
+.main-text027 {
+  top: 71.8701171875px;
+  left: 718px;
+  color: rgba(29, 29, 31, 1);
+  width: 484px;
+  height: auto;
+  position: absolute;
+  font-size: 42.9375px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 52.0099983215332px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text029 {
+  top: 219.8701171875px;
+  left: 905px;
+  color: rgba(0, 102, 204, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 18.5390625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link-learnhowcarbonneutral {
+  top: 222px;
+  left: 1008px;
+  width: 10px;
+  height: 21px;
+  position: absolute;
+}
+.main-fieldset-label {
+  top: 305.8701171875px;
+  left: 239px;
+  width: 448px;
+  height: 202.97999572753906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(134, 134, 139, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.800000011920929);
+}
+.main-spanrow {
+  top: 29px;
+  left: 76px;
+  width: 296px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-spancolumn {
+  top: 0px;
+  left: 0px;
+  width: 178px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text031 {
+  color: rgba(29, 29, 31, 1);
+  width: 81px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text033 {
+  top: 26px;
+  color: rgba(29, 29, 31, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spancolumn01 {
+  top: 2.5px;
+  left: 177.61000061035156px;
+  width: 118px;
+  height: 51.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text035 {
+  top: 20.979999542236328px;
+  left: 40.09000015258789px;
+  color: rgba(29, 29, 31, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text037 {
+  top: 36.97999954223633px;
+  left: 57.75px;
+  color: rgba(29, 29, 31, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spanformlabelsmall {
+  top: 100.9800033569336px;
+  left: 76px;
+  width: 296px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text038 {
+  top: 12.02001953125px;
+  color: rgba(29, 29, 31, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text040 {
+  top: 43.02001953125px;
+  left: 36px;
+  color: rgba(110, 110, 115, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-ellipse1 {
+  top: 134px;
+  left: 76px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.main-fieldset-label01 {
+  top: 305.8701171875px;
+  left: 239px;
+  width: 448px;
+  height: 202.97999572753906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(134, 134, 139, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.800000011920929);
+}
+.main-spanrow1 {
+  top: 29px;
+  left: 76px;
+  width: 296px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-spancolumn02 {
+  top: 0px;
+  left: 0px;
+  width: 178px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text042 {
+  color: rgba(29, 29, 31, 1);
+  width: 81px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text044 {
+  top: 26px;
+  color: rgba(29, 29, 31, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spancolumn03 {
+  top: 2.5px;
+  left: 177.61000061035156px;
+  width: 118px;
+  height: 51.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text046 {
+  top: 20.979999542236328px;
+  left: 40.09000015258789px;
+  color: rgba(29, 29, 31, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text048 {
+  top: 36.97999954223633px;
+  left: 57.75px;
+  color: rgba(29, 29, 31, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spanformlabelsmall1 {
+  top: 100.9800033569336px;
+  left: 76px;
+  width: 296px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text049 {
+  top: 12px;
+  color: rgba(29, 29, 31, 1);
+  right: 0px;
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text051 {
+  top: 43.02001953125px;
+  left: 36px;
+  color: rgba(110, 110, 115, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-ellipse11 {
+  top: 143px;
+  left: 76px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.main-fieldset-label02 {
+  top: 518.8701171875px;
+  left: 239px;
+  width: 448px;
+  height: 202.97999572753906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(245, 245, 247, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.main-spanrow2 {
+  top: 29px;
+  left: 76px;
+  width: 296px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-spancolumn04 {
+  top: 0px;
+  left: 0px;
+  width: 178px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text053 {
+  color: rgba(29, 29, 31, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text055 {
+  top: 26px;
+  color: rgba(29, 29, 31, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spancolumn05 {
+  top: 2.5px;
+  left: 177.61000061035156px;
+  width: 118px;
+  height: 51.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text057 {
+  top: 20.979999542236328px;
+  left: 40.09000015258789px;
+  color: rgba(29, 29, 31, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text059 {
+  top: 36.97999954223633px;
+  left: 57.75px;
+  color: rgba(29, 29, 31, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spanformlabelsmall2 {
+  top: 100.9800033569336px;
+  left: 76px;
+  width: 296px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text060 {
+  top: 12.02001953125px;
+  color: rgba(29, 29, 31, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text062 {
+  top: 43.02001953125px;
+  left: 36px;
+  color: rgba(110, 110, 115, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-ellipse2 {
+  top: 143.1298828125px;
+  left: 76px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.main-fieldset-label03 {
+  top: 518.8701171875px;
+  left: 736px;
+  width: 448px;
+  height: 202.97999572753906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(245, 245, 247, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.main-spanrow3 {
+  top: 29px;
+  left: 76px;
+  width: 296px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-spancolumn06 {
+  top: 0px;
+  left: 0px;
+  width: 178px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text064 {
+  color: rgba(29, 29, 31, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text066 {
+  top: 26px;
+  color: rgba(29, 29, 31, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spancolumn07 {
+  top: 2.5px;
+  left: 177.61000061035156px;
+  width: 118px;
+  height: 51.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text068 {
+  top: 20.979999542236328px;
+  left: 40.09000015258789px;
+  color: rgba(29, 29, 31, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text070 {
+  top: 36.97999954223633px;
+  left: 57.75px;
+  color: rgba(29, 29, 31, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spanformlabelsmall3 {
+  top: 100.9800033569336px;
+  left: 76px;
+  width: 296px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text071 {
+  top: 12.02001953125px;
+  color: rgba(29, 29, 31, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text073 {
+  top: 43.02001953125px;
+  left: 36px;
+  color: rgba(110, 110, 115, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-ellipse21 {
+  top: 143.1298828125px;
+  left: 76px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.main-fieldset-label04 {
+  top: 518.8701171875px;
+  left: 1233px;
+  width: 448px;
+  height: 202.97999572753906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(245, 245, 247, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.main-spanrow4 {
+  top: 29px;
+  left: 76px;
+  width: 296px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-spancolumn08 {
+  top: 0px;
+  left: 0px;
+  width: 178px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text075 {
+  color: rgba(29, 29, 31, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text077 {
+  top: 26px;
+  color: rgba(29, 29, 31, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spancolumn09 {
+  top: 2.5px;
+  left: 177.61000061035156px;
+  width: 118px;
+  height: 51.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text079 {
+  top: 20.979999542236328px;
+  left: 40.09000015258789px;
+  color: rgba(29, 29, 31, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text081 {
+  top: 36.97999954223633px;
+  left: 57.75px;
+  color: rgba(29, 29, 31, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spanformlabelsmall4 {
+  top: 100.9800033569336px;
+  left: 76px;
+  width: 296px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text082 {
+  top: 12.02001953125px;
+  color: rgba(29, 29, 31, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text084 {
+  top: 43.02001953125px;
+  left: 36px;
+  color: rgba(110, 110, 115, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-ellipse22 {
+  top: 142.1298828125px;
+  left: 76px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.main-fieldset-label05 {
+  top: 305.8701171875px;
+  left: 736px;
+  width: 448px;
+  height: 202.97999572753906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(245, 245, 247, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.main-spanrow5 {
+  top: 29px;
+  left: 76px;
+  width: 296px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-spancolumn10 {
+  top: 0px;
+  left: 0px;
+  width: 165px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text086 {
+  color: rgb(29, 29, 31);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text087 {
+  top: 26px;
+  color: rgba(29, 29, 31, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spancolumn11 {
+  top: 2.5px;
+  left: 177.61000061035156px;
+  width: 118px;
+  height: 51.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text089 {
+  top: 20.979999542236328px;
+  left: 40.09000015258789px;
+  color: rgba(29, 29, 31, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text091 {
+  top: 36.97999954223633px;
+  left: 57.75px;
+  color: rgba(29, 29, 31, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spanformlabelsmall5 {
+  top: 100.9800033569336px;
+  left: 76px;
+  width: 296px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text092 {
+  top: 12.02001953125px;
+  color: rgba(29, 29, 31, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text094 {
+  top: 43.02001953125px;
+  left: 36px;
+  color: rgba(110, 110, 115, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-ellipse12 {
+  top: 143.1298828125px;
+  left: 76px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.main-fieldset-label06 {
+  top: 305.8701171875px;
+  left: 1233px;
+  width: 448px;
+  height: 202.97999572753906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(245, 245, 247, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.main-spanrow6 {
+  top: 29px;
+  left: 76px;
+  width: 296px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-spancolumn12 {
+  top: 0px;
+  left: 0px;
+  width: 178px;
+  height: 56.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text096 {
+  color: rgba(29, 29, 31, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text098 {
+  top: 26px;
+  color: rgba(29, 29, 31, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spancolumn13 {
+  top: 2.5px;
+  left: 177.61000061035156px;
+  width: 118px;
+  height: 51.97999954223633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text100 {
+  top: 20.979999542236328px;
+  left: 40.09000015258789px;
+  color: rgba(29, 29, 31, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text102 {
+  top: 36.97999954223633px;
+  left: 57.75px;
+  color: rgba(29, 29, 31, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-spanformlabelsmall6 {
+  top: 100.9800033569336px;
+  left: 76px;
+  width: 296px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text103 {
+  top: 12.02001953125px;
+  color: rgba(29, 29, 31, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text105 {
+  top: 43.02001953125px;
+  left: 36px;
+  color: rgba(110, 110, 115, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-ellipse13 {
+  top: 144.1298828125px;
+  left: 76px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.main-main-section04 {
+  top: 4065px;
+  left: 468px;
+  width: 980px;
+  height: 969px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.main-text107 {
+  top: 47px;
+  left: 116.0199966430664px;
+  color: rgba(29, 29, 31, 1);
+  width: 748px;
+  height: auto;
+  position: absolute;
+  font-size: 43.3125px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 52.0099983215332px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-img-availablein-midnight-starlightand-silver {
+  top: 192px;
+  left: 138px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  border-radius: 5.5px;
+}
+.main-text109 {
+  top: 225.5px;
+  left: 70.41000366210938px;
+  color: rgba(29, 29, 31, 1);
+  width: 151px;
+  height: auto;
+  position: absolute;
+  font-size: 19.1953125px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text111 {
+  top: 260.5px;
+  left: 66px;
+  color: rgba(29, 29, 31, 1);
+  width: 151px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-header {
+  top: 307px;
+  left: -7px;
+  width: 305px;
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.main-text113 {
+  left: 94px;
+  color: rgb(0, 102, 204);
+  width: 100px;
+  bottom: 12px;
+  height: auto;
+  position: absolute;
+  font-size: 13.8906px;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link-learnmore-apple-watch-se {
+  top: 94px;
+  left: 187.89999389648438px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+}
+.main-link-buy-apple-watch-se {
+  top: 36.60986328125px;
+  left: 117px;
+  width: 67px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 980px;
+  background-color: rgba(0, 113, 227, 1);
+}
+.main-text114 {
+  top: 5px;
+  left: 12px;
+  color: rgba(255, 255, 255, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text116 {
+  top: 477px;
+  left: 50px;
+  color: rgba(29, 29, 31, 1);
+  width: 204px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text118 {
+  top: 466px;
+  left: 390px;
+  color: rgba(29, 29, 31, 1);
+  width: 204px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text120 {
+  top: 449px;
+  left: 729px;
+  color: rgba(29, 29, 31, 1);
+  width: 209px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-figure {
+  top: 706px;
+  left: 133.24002075195312px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+}
+.main-text125 {
+  top: 762px;
+  left: 63px;
+  color: rgba(29, 29, 31, 1);
+  width: 193px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text127 {
+  top: 945px;
+  left: 63px;
+  color: rgba(29, 29, 31, 1);
+  width: 193px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text128 {
+  top: 935px;
+  left: 396px;
+  color: rgba(29, 29, 31, 1);
+  width: 193px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text130 {
+  top: 935px;
+  left: 737px;
+  color: rgba(29, 29, 31, 1);
+  width: 193px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text132 {
+  top: 762px;
+  left: 396px;
+  color: rgba(29, 29, 31, 1);
+  width: 193px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text134 {
+  top: 762px;
+  left: 732px;
+  color: rgba(29, 29, 31, 1);
+  width: 193px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-figure1 {
+  top: 881px;
+  left: 135px;
+  width: 40px;
+  height: 41px;
+  position: absolute;
+}
+.main-divcolorswatch {
+  top: 192.5px;
+  left: 475.8399963378906px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  border-radius: 5.5px;
+}
+.main-text136 {
+  top: 225.5px;
+  left: 381.6099853515625px;
+  color: rgba(29, 29, 31, 1);
+  width: 203px;
+  height: auto;
+  position: absolute;
+  font-size: 19.03125px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text138 {
+  top: 260.89013671875px;
+  left: 400.2799987792969px;
+  color: rgba(29, 29, 31, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-header1 {
+  top: 307px;
+  left: 333px;
+  width: 305px;
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.main-text143 {
+  left: 94px;
+  color: rgba(0, 102, 204, 1);
+  width: 100px;
+  bottom: 14px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link-learnmore-apple-watch-series9 {
+  top: 94px;
+  left: 187.89999389648438px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+}
+.main-link-buy-apple-watch-se1 {
+  top: 36.60986328125px;
+  left: 117.67001342773438px;
+  width: 67px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 980px;
+  background-color: rgba(0, 113, 227, 1);
+}
+.main-text145 {
+  top: 5px;
+  left: 12px;
+  color: rgba(255, 255, 255, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link-buy-apple-watch-se2 {
+  top: 36.60986328125px;
+  left: 457.6700134277344px;
+  width: 67px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 980px;
+  background-color: rgba(0, 113, 227, 1);
+}
+.main-text147 {
+  top: 5px;
+  left: 12px;
+  color: rgba(255, 255, 255, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-figure2 {
+  top: 706px;
+  left: 470.5600280761719px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+}
+.main-figure3 {
+  top: 881px;
+  left: 472px;
+  width: 40px;
+  height: 41px;
+  position: absolute;
+}
+.main-img-availableinnaturaltitanium {
+  top: 192px;
+  left: 812.6700439453125px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  border-radius: 5.5px;
+}
+.main-text149 {
+  top: 225.5px;
+  left: 726.22998046875px;
+  color: rgba(29, 29, 31, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 19.03125px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text151 {
+  top: 260.89013671875px;
+  left: 765.530029296875px;
+  color: rgba(29, 29, 31, 1);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-header2 {
+  top: 307px;
+  left: 673px;
+  width: 305px;
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+.main-text156 {
+  left: 92px;
+  color: rgba(0, 102, 204, 1);
+  width: 100px;
+  bottom: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link-learnmore-apple-watch-ultra2 {
+  top: 94px;
+  left: 187.9199981689453px;
+  width: 6px;
+  height: 14px;
+  position: absolute;
+}
+.main-figure4 {
+  top: 706px;
+  left: 807.9100341796875px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+}
+.main-figure5 {
+  top: 881px;
+  left: 809px;
+  width: 40px;
+  height: 41px;
+  position: absolute;
+}
+.main-text158 {
+  top: 1108px;
+  left: 400px;
+  color: rgba(0, 102, 204, 1);
+  width: 202px;
+  height: auto;
+  position: absolute;
+  font-size: 21.1875px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link {
+  top: 2849px;
+  left: 589.27001953125px;
+  width: 11px;
+  height: 24px;
+  position: absolute;
+}
+.main-text160 {
+  top: 111px;
+  left: 438px;
+  color: rgba(0, 102, 204, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 18.375px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link-learnmoreabout-apple-watch-se {
+  top: 114px;
+  left: 544px;
+  width: 10px;
+  height: 21px;
+  position: absolute;
+}
+.main-text162 {
+  top: 464px;
+  color: rgb(29, 29, 31);
+  right: 54px;
+  width: 204px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text163 {
+  top: 264px;
+  left: 407px;
+  color: rgb(29, 29, 31);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text164 {
+  top: 261px;
+  color: rgb(29, 29, 31);
+  right: 88px;
+  width: 151px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text166 {
+  color: #1d1d1f;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: 20px;
+  text-decoration: none;
+}
+.main-link-learnmoreabout-apple-watch-se1 {
+  left: 608px;
+  width: 10px;
+  bottom: -168px;
+  height: 21px;
+  position: absolute;
+}
+.main-main-section05 {
+  top: 5891px;
+  left: -29px;
+  width: 1980px;
+  height: 710px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-divtile4 {
+  top: 22px;
+  left: 25px;
+  width: 1925px;
+  height: 780px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 245, 247, 1);
+}
+.main-main-list-item {
+  top: -39px;
+  left: 159px;
+  width: 1667px;
+  height: 742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text168 {
+  top: 144px;
+  left: 584px;
+  color: rgba(29, 29, 31, 1);
+  width: 178px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-list-listitem {
+  top: 222px;
+  left: 586px;
+  width: 433px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text170 {
+  top: 30px;
+  color: rgba(29, 29, 31, 1);
+  width: 185px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link-buy-apple-watch-series9 {
+  top: 20px;
+  left: 248px;
+  width: 229px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 980px;
+  background-color: rgba(134, 134, 139, 1);
+}
+.main-rectangle1 {
+  top: 12.6904296875px;
+  left: 14px;
+  width: 15px;
+  height: 10px;
+  position: absolute;
+  border-radius: 10px;
+}
+.main-rectangle3 {
+  top: 12.6904296875px;
+  left: 14px;
+  width: 202px;
+  height: 10px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.main-text172 {
+  top: 251.6904296875px;
+  left: 787px;
+  color: rgba(29, 29, 31, 1);
+  width: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text174 {
+  top: 321.6904296875px;
+  left: 784px;
+  color: rgba(29, 29, 31, 1);
+  width: 39px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text176 {
+  top: 397.6904296875px;
+  left: 780px;
+  color: rgba(29, 29, 31, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text178 {
+  top: 476.6904296875px;
+  left: 784px;
+  color: rgba(29, 29, 31, 1);
+  width: 39px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text180 {
+  top: 551.6904296875px;
+  left: 784px;
+  color: rgba(29, 29, 31, 1);
+  width: 39px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-list-listitem1 {
+  top: 297px;
+  left: 586px;
+  width: 433px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text182 {
+  top: 30px;
+  color: rgba(29, 29, 31, 1);
+  width: 249px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link-buy-apple-watch-series10 {
+  top: 9px;
+  left: 249px;
+  width: 229px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 980px;
+  background-color: rgba(134, 134, 139, 1);
+}
+.main-rectangle2 {
+  top: 12.6904296875px;
+  left: 14px;
+  width: 83px;
+  height: 10px;
+  position: absolute;
+  border-radius: 10px;
+}
+.main-rectangle21 {
+  top: 12.6904296875px;
+  left: 14px;
+  width: 202px;
+  height: 10px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.main-list-listitem2 {
+  top: 372px;
+  left: 586px;
+  width: 433px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text184 {
+  top: 28px;
+  color: rgba(29, 29, 31, 1);
+  width: 371px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link-buy-apple-watch-series11 {
+  top: 16px;
+  left: 249px;
+  width: 229px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 980px;
+  background-color: rgba(134, 134, 139, 1);
+}
+.main-rectangle11 {
+  top: 12.6904296875px;
+  left: 14px;
+  width: 202px;
+  height: 10px;
+  position: absolute;
+  border-radius: 10px;
+}
+.main-list-listitem3 {
+  top: 447px;
+  left: 586px;
+  width: 433px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text186 {
+  top: 30px;
+  color: rgba(29, 29, 31, 1);
+  width: 353px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link-buy-apple-watch-series101 {
+  top: 20px;
+  left: 247px;
+  width: 229px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 980px;
+  background-color: rgba(134, 134, 139, 1);
+}
+.main-rectangle22 {
+  top: 12.6904296875px;
+  left: 14px;
+  width: 121px;
+  height: 10px;
+  position: absolute;
+  border-radius: 10px;
+}
+.main-rectangle4 {
+  top: 12.6904296875px;
+  left: 14px;
+  width: 202px;
+  height: 10px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.main-list-listitem4 {
+  top: 522px;
+  left: 586px;
+  width: 433px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(210, 210, 215, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.main-text188 {
+  top: 30px;
+  color: rgba(29, 29, 31, 1);
+  width: 374px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link-buy-apple-watch-series102 {
+  top: 21px;
+  left: 249px;
+  width: 229px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 980px;
+  background-color: rgba(134, 134, 139, 1);
+}
+.main-rectangle12 {
+  top: 12.6904296875px;
+  left: 14px;
+  width: 160px;
+  height: 10px;
+  position: absolute;
+  border-radius: 10px;
+}
+.main-rectangle5 {
+  top: 12.6904296875px;
+  left: 14px;
+  width: 202px;
+  height: 10px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.main-divconfigurectacontainer {
+  top: 570px;
+  left: 0px;
+  width: 1925px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-link01 {
+  top: -4px;
+  left: 868px;
+  width: 197px;
+  height: 50px;
+  position: absolute;
+  border-radius: 100px;
+}
+.main-link02 {
+  top: 1px;
+  left: 874px;
+  width: 184px;
+  height: 40px;
+  position: absolute;
+  border-radius: 100px;
+}
+.main-text190 {
+  top: 8px;
+  left: 894px;
+  color: rgba(0, 0, 0, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-main-section06 {
+  top: 6601px;
+  left: -8px;
+  width: 1932px;
+  height: 460px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(29, 29, 31, 1);
+}
+.main-divrcdecisionsection {
+  top: 132px;
+  left: 740px;
+  width: 448px;
+  height: 88px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background-color: rgba(245, 245, 247, 1);
+}
+.main-divb8283370c17911ee84c145bd6d2b73ae {
+  top: 16px;
+  left: 16px;
+  width: 416px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text192 {
+  top: 2px;
+  color: rgba(29, 29, 31, 0.9200000166893005);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-divrcdecisionsectiondesc {
+  top: 36px;
+  left: 16px;
+  width: 416px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text194 {
+  top: 1px;
+  color: rgba(29, 29, 31, 0.9200000166893005);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-button {
+  top: 34px;
+  left: 421px;
+  width: 16px;
+  height: 14px;
+  position: absolute;
+}
+.main-link-buy-apple-watch-series103 {
+  top: 256px;
+  left: 811px;
+  width: 305px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 980px;
+  background-color: rgba(134, 134, 139, 1);
+}
+.main-rectangle13 {
+  top: 13px;
+  left: 14px;
+  width: 196px;
+  height: 10px;
+  position: absolute;
+  border-radius: 10px;
+}
+.main-rectangle51 {
+  top: 13px;
+  left: 14px;
+  width: 280px;
+  height: 10px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.main-text196 {
+  top: 313px;
+  left: 943px;
+  color: rgba(245, 245, 247, 1);
+  width: 39px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text198 {
+  top: 63px;
+  left: 841px;
+  color: rgba(255, 255, 255, 1);
+  width: 245px;
+  height: auto;
+  position: absolute;
+  font-size: 25.484375px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-main-section07 {
+  top: 7032px;
+  left: -29px;
+  width: 1980px;
+  height: 1052px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-divtile5 {
+  top: 30px;
+  left: 30px;
+  width: 1920px;
+  height: 1012px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 245, 247, 1);
+}
+.main-divcopywrap {
+  top: 77px;
+  left: 0px;
+  width: 1920px;
+  height: 162px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.main-text200 {
+  top: -14px;
+  left: 807px;
+  color: rgba(29, 29, 31, 1);
+  width: 300px;
+  height: auto;
+  position: absolute;
+  font-size: 25.484375px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text202 {
+  top: 55px;
+  left: 747.6099853515625px;
+  color: rgba(17, 17, 17, 1);
+  width: 425px;
+  height: auto;
+  position: absolute;
+  font-size: 43.125px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 52.0099983215332px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text207 {
+  top: -14px;
+  left: 807px;
+  color: rgb(29, 29, 31);
+  width: 300px;
+  height: auto;
+  position: absolute;
+  font-size: 25.4844px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text208 {
+  top: 466px;
+  left: 390px;
+  color: rgba(29, 29, 31, 1);
+  width: 204px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-divtile6 {
+  top: 226px;
+  left: 77px;
+  width: 1762px;
+  height: 514px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.main-text210 {
+  top: 121px;
+  left: 706px;
+  color: rgb(29, 29, 31);
+  width: 500px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: 18px;
+  font-stretch: normal;
+  text-transform: lowercase;
+  text-decoration: none;
+}
+.main-text212 {
+  color: #1d1d1f;
+  font-family: "Inter";
+  font-weight: 700;
+  text-decoration: none;
+}
+.main-group-gallery-tablist-tab-galleryitem1 {
+  top: 827px;
+  left: 964px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  border-radius: 4px;
+}
+.main-group-gallery-tablist-tab-galleryitem2 {
+  top: 827px;
+  left: 986px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  border-radius: 4px;
+}
+.main-group-gallery-tablist-tab-galleryitem3 {
+  top: 827px;
+  left: 1008px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  border-radius: 4px;
+}
+.main-link03 {
+  left: 902px;
+  width: 176px;
+  bottom: 135px;
+  height: 40px;
+  position: absolute;
+  border-radius: 100px;
+}
+.main-text215 {
+  left: 926px;
+  color: rgba(255, 255, 255, 1);
+  width: 137px;
+  bottom: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-main-section08 {
+  top: 9120px;
+  left: 235px;
+  width: 1440px;
+  height: 488.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-divbuystripcontent {
+  top: 36px;
+  left: 55px;
+  width: 1380px;
+  height: 428.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-divbuystripitems {
+  top: 0px;
+  left: 140px;
+  width: 1100px;
+  height: 428.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-divbuystripitem {
+  top: 0px;
+  left: 0px;
+  width: 367px;
+  height: 372.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text217 {
+  top: 279px;
+  left: 54px;
+  color: rgba(29, 29, 31, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 16.4765625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-image3 {
+  top: 209px;
+  left: 151px;
+  width: 65px;
+  height: 56px;
+  position: absolute;
+}
+.main-text222 {
+  top: 137px;
+  left: 449px;
+  color: rgba(29, 29, 31, 1);
+  width: 212px;
+  height: auto;
+  position: absolute;
+  font-size: 18.8671875px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text224 {
+  top: 279px;
+  left: 426px;
+  color: rgba(29, 29, 31, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 16.4765625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-image4 {
+  top: 209px;
+  left: 520px;
+  width: 59px;
+  height: 56px;
+  position: absolute;
+}
+.main-text229 {
+  top: 279px;
+  left: 806px;
+  color: rgba(29, 29, 31, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 16.4765625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-image5 {
+  top: 213px;
+  left: 909px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+}
+.main-text234 {
+  top: 466px;
+  left: 390px;
+  color: rgba(29, 29, 31, 1);
+  width: 204px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text236 {
+  top: 762px;
+  left: 396px;
+  color: rgba(29, 29, 31, 1);
+  width: 193px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-nav {
+  top: 47px;
+  left: -8px;
+  width: 1928px;
+  height: 124px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 1);
+}
+.main-list {
+  top: 12px;
+  left: 34px;
+  width: 1860px;
+  height: 141px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-item-link {
+  top: 60px;
+  left: 323.79998779296875px;
+  width: 84px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text238 {
+  top: 1px;
+  left: 6.789999961853027px;
+  color: rgba(245, 245, 247, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-item-link1 {
+  top: 60px;
+  left: 422.2200012207031px;
+  width: 84px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text240 {
+  top: 1px;
+  left: 6.800000190734863px;
+  color: rgba(245, 245, 247, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-item-link2 {
+  top: 60px;
+  left: 524.6400146484375px;
+  width: 84px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text242 {
+  top: 1px;
+  left: 6.800000190734863px;
+  color: rgba(245, 245, 247, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-item-link3 {
+  top: 60px;
+  left: 627.0599975585938px;
+  width: 84px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text244 {
+  top: 1px;
+  left: 6.800000190734863px;
+  color: rgba(245, 245, 247, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-item-link4 {
+  top: 60px;
+  left: 729.47998046875px;
+  width: 84px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text246 {
+  top: 1px;
+  left: 6.800000190734863px;
+  color: rgba(245, 245, 247, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-item-link5 {
+  top: 60px;
+  left: 831.9099731445312px;
+  width: 84px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-text248 {
+  top: 1px;
+  left: 6.789999961853027px;
+  color: rgba(245, 245, 247, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text250 {
+  top: 68px;
+  left: 940px;
+  color: rgba(245, 245, 247, 1);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text252 {
+  top: 68px;
+  left: 1025px;
+  color: rgba(245, 245, 247, 1);
+  width: 35px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text254 {
+  top: 68px;
+  left: 1094.989990234375px;
+  color: rgba(245, 245, 247, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text256 {
+  top: 68px;
+  left: 1167.4000244140625px;
+  color: rgba(245, 245, 247, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text258 {
+  top: 68px;
+  left: 1263.739990234375px;
+  color: rgba(245, 245, 247, 1);
+  width: 83px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text260 {
+  top: 60px;
+  left: 1376px;
+  color: rgba(245, 245, 247, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 11.8125px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text265 {
+  top: 68px;
+  left: 1471.9599609375px;
+  color: rgba(245, 245, 247, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-image1 {
+  top: -11px;
+  left: 874px;
+  width: 104px;
+  height: 72px;
+  position: absolute;
+}
+.main-nav-global {
+  top: 0px;
+  left: -8px;
+  width: 1928px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(51, 51, 51, 1);
+}
+.main-link-learnmoreabout-apple-watch-series91 {
+  top: 2897.06005859375px;
+  left: 918.1900024414062px;
+  width: 10px;
+  height: 21px;
+  position: absolute;
+}
+.main-link04 {
+  top: 3083px;
+  left: 1494px;
+  width: 176px;
+  height: 40px;
+  position: absolute;
+  border-radius: 100px;
+}
+.main-text267 {
+  top: 3090px;
+  left: 1514px;
+  color: rgba(255, 255, 255, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-main-section09 {
+  top: 8084px;
+  left: -2px;
+  width: 1924px;
+  height: 1177px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(2, 2, 2, 1);
+}
+.main-link-learnmoreabout-apple-watch-series92 {
+  top: 329.1298828125px;
+  left: 918.1900024414062px;
+  width: 10px;
+  height: 21px;
+  position: absolute;
+}
+.main-tesla-model3-facelift2024-exterior-design-rear-alfa-inchi {
+  top: 6px;
+  left: -3px;
+  width: 1920px;
+  height: 1077px;
+  position: absolute;
+}
+.main-text269 {
+  top: 762px;
+  left: 396px;
+  color: rgba(29, 29, 31, 1);
+  width: 193px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.blink {
+    top: 255px;
+    left: 550px;
+    width: 500px;
+    height: 200px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 0.20000000298023224);
+    border-style: solid;
+    border-width: 1px;
+    opacity: 0; /* Start invisible */
+    animation: fadeIn 0.8s forwards; /* Use the fadeIn animation */
+    animation-delay: 0.8s; /* Start after a 0.5 second delay */
+  
+  }
+ 
+
+.main-text271 {
+  top: 61px;
+  left: 686px;
+  color: rgba(255, 255, 255, 1);
+  width: 600px;
+  height: auto;
+  position: absolute;
+  font-size: 42.75px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 52.0099983215332px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text273 {
+  top: 121px;
+  left: 929px;
+  color: rgba(255, 255, 255, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 20.671875px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 29px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text275 {
+  top: 157px;
+  left: 841px;
+  color: rgba(41, 151, 255, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 18.375px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text277 {
+  top: 157px;
+  left: 978px;
+  color: rgba(41, 151, 255, 1);
+  width: 129px;
+  height: auto;
+  position: absolute;
+  font-size: 18.375px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-button-watchthefilmabout-apple-watch-series91 {
+  top: 158px;
+  left: 1117px;
+  width: 25px;
+  height: 21px;
+  position: absolute;
+}
+.main-fieldset-label07 {
+  top: 812px;
+  left: 463px;
+  width: 253px;
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(134, 134, 139, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.800000011920929);
+}
+.main-link05 {
+  top: 62px;
+  left: 38px;
+  width: 176px;
+  height: 40px;
+  position: absolute;
+  border-radius: 100px;
+}
+.main-text279 {
+  top: 34px;
+  left: 84px;
+  color: rgba(29, 29, 31, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text281 {
+  top: 69px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-fieldset-label08 {
+  top: 812px;
+  left: 813px;
+  width: 253px;
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(134, 134, 139, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.800000011920929);
+}
+.main-text283 {
+  top: 34px;
+  left: 84px;
+  color: rgba(29, 29, 31, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link06 {
+  top: 62px;
+  left: 38px;
+  width: 176px;
+  height: 40px;
+  position: absolute;
+  border-radius: 100px;
+}
+.main-text285 {
+  top: 69px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-fieldset-label09 {
+  top: 812px;
+  left: 1161px;
+  width: 253px;
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(134, 134, 139, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.800000011920929);
+}
+.main-text287 {
+  top: 34px;
+  left: 84px;
+  color: rgba(29, 29, 31, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link07 {
+  top: 62px;
+  left: 39px;
+  width: 176px;
+  height: 40px;
+  position: absolute;
+  border-radius: 100px;
+}
+.main-text289 {
+  top: 69px;
+  left: 59px;
+  color: rgba(255, 255, 255, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-fieldset-label10 {
+  top: 961px;
+  left: 463px;
+  width: 253px;
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(134, 134, 139, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.800000011920929);
+}
+.main-link08 {
+  top: 62px;
+  left: 38px;
+  width: 176px;
+  height: 40px;
+  position: absolute;
+  border-radius: 100px;
+}
+.main-text291 {
+  top: 32px;
+  left: 98px;
+  color: rgba(29, 29, 31, 1);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-text293 {
+  top: 69px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-fieldset-label11 {
+  top: 961px;
+  left: 815px;
+  width: 253px;
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(134, 134, 139, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.800000011920929);
+}
+.main-text295 {
+  top: 35px;
+  left: 104px;
+  color: rgba(29, 29, 31, 1);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link09 {
+  top: 62px;
+  left: 38px;
+  width: 176px;
+  height: 40px;
+  position: absolute;
+  border-radius: 100px;
+}
+.main-text297 {
+  top: 69px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-fieldset-label12 {
+  top: 961px;
+  left: 1163px;
+  width: 253px;
+  height: 123px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(134, 134, 139, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.800000011920929);
+}
+.main-text299 {
+  top: 34px;
+  left: 102px;
+  color: rgba(29, 29, 31, 1);
+  width: 49px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link10 {
+  top: 62px;
+  left: 39px;
+  width: 176px;
+  height: 40px;
+  position: absolute;
+  border-radius: 100px;
+}
+.main-text301 {
+  top: 69px;
+  left: 59px;
+  color: rgba(255, 255, 255, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.main-link-learnmoreabout-apple-watch-se2 {
+  top: 160px;
+  left: 951px;
+  width: 10px;
+  height: 21px;
+  position: absolute;
+}
+.cursor {
+  position: fixed;
+  border-radius: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  pointer-events: none;
+  left: -100px;
+  top: 50%;
+  mix-blend-mode: difference; 
+  background-color: transparent;
+  z-index: 10000;
+  border: 30px solid #2c87c0;
+  height: 60px;
+  width: 60px;
+  transition: all 300ms ease-out;
+}
+
+body {
+  margin: 0;
+  background: #20262E;
+  min-height: 300px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.blog {
+  position: fixed;
+  bottom: 1rem;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+
+  a {
+    color: white;
+  }
+}
+
